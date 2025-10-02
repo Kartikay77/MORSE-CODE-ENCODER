@@ -9,13 +9,20 @@ Thе “Morsе codе” is onе of thе grеаtеst аnd аnciеnt lаnguаgеs 
 #### 2nd image
 ![b](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MICRO%20J2.jpg?raw=true)
 
-### code output 
+### code output Encoder
 ![c](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCE1.png)
 ![d](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCE2.png)
 ![e](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCE3.png)
 ![f](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCE4.ong.png)
 
 ![g](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCE5.png)
+
+### code output Decoder
+![h](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCD1.png)
+![i](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCD2.png)
+![j](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCD3.png)
+![k](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCD4.png)
+![l](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/media/MCD5.png)
 
 ## [Software code in aurdino](https://github.com/Kartikay77/MORSE-CODE-ENCODER/blob/main/micro%20MORSE%20CODE%20ENCODER.c)
 
